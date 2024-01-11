@@ -216,7 +216,7 @@ function appendSearchElement() {
 /*----------------------- Виконання -----------------------*/
 
 // Отримуємо перелік посилань які вже натискали
-let selectedLinks = getClickedLinks();
+/*let selectedLinks = getClickedLinks();
 
 // Створюємо елементи з посиланнями
 appendElements(selectedLinks);
@@ -234,3 +234,4 @@ document.addEventListener("click", function (event) {
 
 // Додаваємо елемент пошуку на сторінку
 appendSearchElement();
+*/
